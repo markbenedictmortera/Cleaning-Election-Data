@@ -1,0 +1,303 @@
+"","V1","page","province","region","position","district","votes","proclamation_date","name","party","has_nickname"
+"1","AGANA, VENICE B.               VENICE                             LAKAS-NUCD               47,684   May 16,1992","1/12","BOHOL","07","congressman","1ST DISTRICT"," 47,684","May 16,1992","AGANA, VENICE B.","LAKAS-NUCD",TRUE
+"2","HERRERA, JULIUS CAESAR F.                                         LDP                      32,387","1/12","BOHOL","07","congressman","1ST DISTRICT"," 32,387",NA,"HERRERA, JULIUS CAESAR F.","",TRUE
+"3","RUBILLAR, JACINTO JR. I.                                          NP/PP/NPC                20,743","1/12","BOHOL","07","congressman","1ST DISTRICT"," 20,743",NA,"RUBILLAR, JACINTO JR. I.","",TRUE
+"4","RENGEL, FELIX T.                                                  PDP                      4,143","1/12","BOHOL","07","congressman","1ST DISTRICT"," 4,143",NA,"RENGEL, FELIX T.","",TRUE
+"5","GARAY, FORTUNATO N.                                               LP                       1,343","1/12","BOHOL","07","congressman","1ST DISTRICT"," 1,343",NA,"GARAY, FORTUNATO N.","",TRUE
+"6","CEBALLOS, CESAR -                                                 INDEPENDENT              1,083","1/12","BOHOL","07","congressman","1ST DISTRICT"," 1,083",NA,"CEBALLOS, CESAR -","",TRUE
+"7","CORTICO, FEFELINO -                                               INDEPENDENT               608","1/12","BOHOL","07","congressman","1ST DISTRICT"," 608",NA,"CORTICO, FEFELINO -","",TRUE
+"8","ARCAMO, SAMUEL -                                                  KBL                       573","1/12","BOHOL","07","congressman","1ST DISTRICT"," 573",NA,"ARCAMO, SAMUEL -","",TRUE
+"9","AUMENTADO, ERICO B.            RICO                               NP/NPC                   32,924   May 17,1992","1/12","BOHOL","07","congressman","2ND DISTRICT"," 32,924","May 17,1992","AUMENTADO, ERICO B.","NP/NPC",TRUE
+"10","GARCIA, PRUDENCIO A.                                              LDP                      19,034","1/12","BOHOL","07","congressman","2ND DISTRICT"," 19,034",NA,"GARCIA, PRUDENCIO A.","",TRUE
+"11","ALESNA, FRANCISCO JR. P.                                          LAKAS-NUCD               14,281","1/12","BOHOL","07","congressman","2ND DISTRICT"," 14,281",NA,"ALESNA, FRANCISCO JR. P.","",TRUE
+"12","CENIZA, ANTONIO N.                                                NP                       5,223","1/12","BOHOL","07","congressman","2ND DISTRICT"," 5,223",NA,"CENIZA, ANTONIO N.","",TRUE
+"13","BESAS, RAFAEL G.                                                  KBL                       516","1/12","BOHOL","07","congressman","2ND DISTRICT"," 516",NA,"BESAS, RAFAEL G.","",TRUE
+"14","NUNEZ, ELIEZER B.                                                 KBL                       347","1/12","BOHOL","07","congressman","2ND DISTRICT"," 347",NA,"NUNEZ, ELIEZER B.","",TRUE
+"15","TORREJOS, BENIGNO JR. P.                                          INDEPENDENT               260","1/12","BOHOL","07","congressman","2ND DISTRICT"," 260",NA,"TORREJOS, BENIGNO JR. P.","",TRUE
+"16","ZARRAGA, ISIDRO C.             TOTOY                              LDP                      46,706   May 16,1992","1/12","BOHOL","07","congressman","3RD DISTRICT"," 46,706","May 16,1992","ZARRAGA, ISIDRO C.","LDP",TRUE
+"17","BALITE, DIONISIO D.                                               PP/NPC                   29,772","1/12","BOHOL","07","congressman","3RD DISTRICT"," 29,772",NA,"BALITE, DIONISIO D.","",TRUE
+"18","LIM, ALEXANDER H.                                                 LPD                      25,939","1/12","BOHOL","07","congressman","3RD DISTRICT"," 25,939",NA,"LIM, ALEXANDER H.","",TRUE
+"19","ABASOLO, VIOLETA C.                                               LAKAS-NUCD               1,775","1/12","BOHOL","07","congressman","3RD DISTRICT"," 1,775",NA,"ABASOLO, VIOLETA C.","",TRUE
+"20","BERNIDO, CIPRIANO O.                                              KBL                      1,460","1/12","BOHOL","07","congressman","3RD DISTRICT"," 1,460",NA,"BERNIDO, CIPRIANO O.","",TRUE
+"21","TIROL, DAVID B.                SIR DAVID                          NPC                     119,191   June 19,1992","1/12","BOHOL","07","governor",""," 119,191","June 19,1992","TIROL, DAVID B.","NPC",TRUE
+"22","TORRALBA, CONSTANCIO C.                                           LDP                      74,672","1/12","BOHOL","07","governor",""," 74,672",NA,"TORRALBA, CONSTANCIO C.","",TRUE
+"23","DELA SERNA, VICTOR S.                                             LAKAS-NUCD               27,824","1/12","BOHOL","07","governor",""," 27,824",NA,"DELA SERNA, VICTOR S.","",TRUE
+"24","BUTALID, ROLANDO G.                                               KBL                      24,146","1/12","BOHOL","07","governor",""," 24,146",NA,"BUTALID, ROLANDO G.","",TRUE
+"25","CERICOS, ROBERTO P.                                               LP-PDP LABAN             1,141","1/12","BOHOL","07","governor",""," 1,141",NA,"CERICOS, ROBERTO P.","",TRUE
+"26","CABANGBANG, BUENAVENTURA C.                                       KBL                       761","1/12","BOHOL","07","governor",""," 761",NA,"CABANGBANG, BUENAVENTURA C.","",TRUE
+"27","REYES, ROBERTO -                                                  KBL                       580","1/12","BOHOL","07","governor",""," 580",NA,"REYES, ROBERTO -","",TRUE
+"28","MALUENDA, SEVERO JR. L.                                       KBL                       403","2/12","BOHOL","07","governor",""," 403",NA,"MALUENDA, SEVERO JR. L.","",TRUE
+"29","RELAMPAGOS, RENE L.           RENE                            LDP                     117,431   May 17,1992","2/12","BOHOL","07","vice governor",""," 117,431","May 17,1992","RELAMPAGOS, RENE L.","LDP",TRUE
+"30","GONZAGA, MARGARITO -                                          NP/NPC                   47,466","2/12","BOHOL","07","vice governor",""," 47,466",NA,"GONZAGA, MARGARITO -","",TRUE
+"31","YAP, SIMPLICIO L.                                             NP/NPC/KBL               28,968","2/12","BOHOL","07","vice governor",""," 28,968",NA,"YAP, SIMPLICIO L.","",TRUE
+"32","BLANCO, LEOPOLDO JR. A.                                       LAKAS-NUCD               14,834","2/12","BOHOL","07","vice governor",""," 14,834",NA,"BLANCO, LEOPOLDO JR. A.","",TRUE
+"33","LEOPANDO, URIEL R.                                            KBL                      1,461","2/12","BOHOL","07","vice governor",""," 1,461",NA,"LEOPANDO, URIEL R.","",TRUE
+"34","NAMOCATCAT, ANDREW S.                                         NP                       1,079","2/12","BOHOL","07","vice governor",""," 1,079",NA,"NAMOCATCAT, ANDREW S.","",TRUE
+"35","TORREGOSA, ALFONSO M.                                         KBL                       639","2/12","BOHOL","07","vice governor",""," 639",NA,"TORREGOSA, ALFONSO M.","",TRUE
+"36","TONGCO, ISABELITO B.          BILLY                           LDP                      35,706   May 16,1992","2/12","BOHOL","07","board member","1ST DISTRICT"," 35,706","May 16,1992","TONGCO, ISABELITO B.","LDP",TRUE
+"37","DAMALERIO, ALFONSO C.         AL                              LDP                      34,017   May 16,1992","2/12","BOHOL","07","board member","1ST DISTRICT"," 34,017","May 16,1992","DAMALERIO, ALFONSO C.","LDP",TRUE
+"38","LUNGAY, ARNOLD R.             ARN                             LDP                      31,283   May 16,1992","2/12","BOHOL","07","board member","1ST DISTRICT"," 31,283","May 16,1992","LUNGAY, ARNOLD R.","LDP",TRUE
+"39","LAGUNAY, URBANO H.                                            NPC                      27,530","2/12","BOHOL","07","board member","1ST DISTRICT"," 27,530",NA,"LAGUNAY, URBANO H.","",TRUE
+"40","SEVILLA, JOSEPH G.                                            LAKAS-NUCD               17,820","2/12","BOHOL","07","board member","1ST DISTRICT"," 17,820",NA,"SEVILLA, JOSEPH G.","",TRUE
+"41","GLOVASA, OSCAR B.                                             LAKAS-NUCD               17,056","2/12","BOHOL","07","board member","1ST DISTRICT"," 17,056",NA,"GLOVASA, OSCAR B.","",TRUE
+"42","CLARIN, PAULINO G.                                            BOL-ANON                 16,453","2/12","BOHOL","07","board member","1ST DISTRICT"," 16,453",NA,"CLARIN, PAULINO G.","",TRUE
+"43","YAP, RODOLFO E.                                               KBL/NP                   13,667","2/12","BOHOL","07","board member","1ST DISTRICT"," 13,667",NA,"YAP, RODOLFO E.","",TRUE
+"44","ZAMORA, NERIO G.                                              NPC                      10,859","2/12","BOHOL","07","board member","1ST DISTRICT"," 10,859",NA,"ZAMORA, NERIO G.","",TRUE
+"45","BOISER, MAXIMINO I.                                           LAKAS-NUCD               8,998","2/12","BOHOL","07","board member","1ST DISTRICT"," 8,998",NA,"BOISER, MAXIMINO I.","",TRUE
+"46","REDULLA, ISIDRO R.                                            NPC                      7,575","2/12","BOHOL","07","board member","1ST DISTRICT"," 7,575",NA,"REDULLA, ISIDRO R.","",TRUE
+"47","JUMANGIT, AMBROSIO C.                                         NP-NPC                   6,742","2/12","BOHOL","07","board member","1ST DISTRICT"," 6,742",NA,"JUMANGIT, AMBROSIO C.","",TRUE
+"48","PALOSO, ROLANDO SR. L.                                        LP/PDP LABAN             4,946","2/12","BOHOL","07","board member","1ST DISTRICT"," 4,946",NA,"PALOSO, ROLANDO SR. L.","",TRUE
+"49","BULILAN, FULGENCIO L.                                         NP                       1,819","2/12","BOHOL","07","board member","1ST DISTRICT"," 1,819",NA,"BULILAN, FULGENCIO L.","",TRUE
+"50","DE VERA, ABELARDO C.                                          NP                        818","2/12","BOHOL","07","board member","1ST DISTRICT"," 818",NA,"DE VERA, ABELARDO C.","",TRUE
+"51","MONTON, MACHIAVILLA LUIDA L.                                  PDP/LP                    802","2/12","BOHOL","07","board member","1ST DISTRICT"," 802",NA,"MONTON, MACHIAVILLA LUIDA L.","",TRUE
+"52","PILAYRE, RUFINO P.                                            KBL                       633","2/12","BOHOL","07","board member","1ST DISTRICT"," 633",NA,"PILAYRE, RUFINO P.","",TRUE
+"53","LINGO, ADELA C.                                               KBL                       317","2/12","BOHOL","07","board member","1ST DISTRICT"," 317",NA,"LINGO, ADELA C.","",TRUE
+"54","BAUGBOG, GAUDENCIO N.                                         NPC                       219","2/12","BOHOL","07","board member","1ST DISTRICT"," 219",NA,"BAUGBOG, GAUDENCIO N.","",TRUE
+"55","GALINATO, ALFONSA -                                           KBL                       140","2/12","BOHOL","07","board member","1ST DISTRICT"," 140",NA,"GALINATO, ALFONSA -","",TRUE
+"56","JUMAMOY, JOSEPHINE SOCORRO C. ROYGIE                          LDP                      30,283   May 17,1992","2/12","BOHOL","07","board member","2ND DISTRICT"," 30,283","May 17,1992","JUMAMOY, JOSEPHINE SOCORRO C. ROYGIE","",TRUE
+"57","BORJA, CESAR M.               CESA                            LDP                      24,576   May 17,1992","2/12","BOHOL","07","board member","2ND DISTRICT"," 24,576","May 17,1992","BORJA, CESAR M.","LDP",TRUE
+"58","CAJES, ROBERTO C.                                                NP/PP/NPC                22,373   June 30,1992","3/12","BOHOL","07","board member","2ND DISTRICT"," 22,373","June 30,1992","CAJES, ROBERTO C.","",TRUE
+"59","TORREGOSA, ERMELANDO -                                           LDP                      22,266","3/12","BOHOL","07","board member","2ND DISTRICT"," 22,266",NA,"TORREGOSA, ERMELANDO -","",TRUE
+"60","GARCIA, FELIX T.                                                 NP                       16,671","3/12","BOHOL","07","board member","2ND DISTRICT"," 16,671",NA,"GARCIA, FELIX T.","",TRUE
+"61","AUTENTICO, GORGONIO A.                                           NPC                      15,565","3/12","BOHOL","07","board member","2ND DISTRICT"," 15,565",NA,"AUTENTICO, GORGONIO A.","",TRUE
+"62","CUYNO, FRANCISCO D.                                              NPC                      13,691","3/12","BOHOL","07","board member","2ND DISTRICT"," 13,691",NA,"CUYNO, FRANCISCO D.","",TRUE
+"63","DEL ROSARIO, EDGARD -                                            BOL-ANON COAL            12,179","3/12","BOHOL","07","board member","2ND DISTRICT"," 12,179",NA,"DEL ROSARIO, EDGARD -","",TRUE
+"64","ABAPO, TOMAS JR. -                                               LAKAS-NUCD               9,449","3/12","BOHOL","07","board member","2ND DISTRICT"," 9,449",NA,"ABAPO, TOMAS JR. -","",TRUE
+"65","CAMPBELL, JOHN M.                                                LAKAS-NUCD               6,621","3/12","BOHOL","07","board member","2ND DISTRICT"," 6,621",NA,"CAMPBELL, JOHN M.","",TRUE
+"66","DOMPOR, ROMEO A.                                                 LP/PDP LABAN             4,678","3/12","BOHOL","07","board member","2ND DISTRICT"," 4,678",NA,"DOMPOR, ROMEO A.","",TRUE
+"67","LASTIMOSA, ARTURO -                                              LAKAS-NUCD               3,715","3/12","BOHOL","07","board member","2ND DISTRICT"," 3,715",NA,"LASTIMOSA, ARTURO -","",TRUE
+"68","SOMOSAT, PANFILO -                                               KBL                      1,137","3/12","BOHOL","07","board member","2ND DISTRICT"," 1,137",NA,"SOMOSAT, PANFILO -","",TRUE
+"69","MELENCIO, ALLAN -                                                LP/PDP LABAN              888","3/12","BOHOL","07","board member","2ND DISTRICT"," 888",NA,"MELENCIO, ALLAN -","",TRUE
+"70","TIROL, BRIAN -                                                   KBL                       488","3/12","BOHOL","07","board member","2ND DISTRICT"," 488",NA,"TIROL, BRIAN -","",TRUE
+"71","BARIBAR, VIVENCIO -                                              KBL                       361","3/12","BOHOL","07","board member","2ND DISTRICT"," 361",NA,"BARIBAR, VIVENCIO -","",TRUE
+"72","SOLIANO, OLEGARIO -                                              NP                        272","3/12","BOHOL","07","board member","2ND DISTRICT"," 272",NA,"SOLIANO, OLEGARIO -","",TRUE
+"73","SOBRIO, PERFECTO J                                               KBL                       252","3/12","BOHOL","07","board member","2ND DISTRICT"," 252",NA,"SOBRIO, PERFECTO J","",TRUE
+"74","JIMENEZ, GREGORIO -                                              LDP                       230","3/12","BOHOL","07","board member","2ND DISTRICT"," 230",NA,"JIMENEZ, GREGORIO -","",TRUE
+"75","TALLO, SOCORRO P.                                                LDP                      39,530   May 17,1992","3/12","BOHOL","07","board member","3RD DISTRICT"," 39,530","May 17,1992","TALLO, SOCORRO P.","",TRUE
+"76","JALA, ELADIO M.                BOY                               LDP                      37,428   May 17,1992","3/12","BOHOL","07","board member","3RD DISTRICT"," 37,428","May 17,1992","JALA, ELADIO M.","LDP",TRUE
+"77","SALES, ISABELO JR. M.          JUN                               LDP                      35,257   May 17,1992","3/12","BOHOL","07","board member","3RD DISTRICT"," 35,257","May 17,1992","SALES, ISABELO JR. M.","LDP",TRUE
+"78","LIAO, FELIPE SR. T.            DR. LIAO                          NC/NP                    34,072   May 17,1992","3/12","BOHOL","07","board member","3RD DISTRICT"," 34,072","May 17,1992","LIAO, FELIPE SR. T.","NC/NP",TRUE
+"79","TORREFRANCA, LUIS B.                                             LDP                      31,451","3/12","BOHOL","07","board member","3RD DISTRICT"," 31,451",NA,"TORREFRANCA, LUIS B.","",TRUE
+"80","BERNIDO, STEPHEN C.                                              NPC                      26,216","3/12","BOHOL","07","board member","3RD DISTRICT"," 26,216",NA,"BERNIDO, STEPHEN C.","",TRUE
+"81","TIROL, GODOFREDA O.                                              NP/NPC/PP                25,567","3/12","BOHOL","07","board member","3RD DISTRICT"," 25,567",NA,"TIROL, GODOFREDA O.","",TRUE
+"82","INTING, ENRIQUE B.                                               NPC                      14,027","3/12","BOHOL","07","board member","3RD DISTRICT"," 14,027",NA,"INTING, ENRIQUE B.","",TRUE
+"83","CABATOS, ARTEMIO P.                                              PDP-LABAN                13,241","3/12","BOHOL","07","board member","3RD DISTRICT"," 13,241",NA,"CABATOS, ARTEMIO P.","",TRUE
+"84","LLUBIT, CASIMERO H.                                              BOL-ANON COAL            10,391","3/12","BOHOL","07","board member","3RD DISTRICT"," 10,391",NA,"LLUBIT, CASIMERO H.","",TRUE
+"85","CABAGNOT, TEOPISTO JR. V.                                        LAKAS-NUCD               8,985","3/12","BOHOL","07","board member","3RD DISTRICT"," 8,985",NA,"CABAGNOT, TEOPISTO JR. V.","",TRUE
+"86","CANDA, POLICRONIO S.                                             LAKAS-NUCD               7,672","3/12","BOHOL","07","board member","3RD DISTRICT"," 7,672",NA,"CANDA, POLICRONIO S.","",TRUE
+"87","MAGARO, EFIGENIA B.                                              LAKAS-NUCD               7,651","3/12","BOHOL","07","board member","3RD DISTRICT"," 7,651",NA,"MAGARO, EFIGENIA B.","",TRUE
+"88","BOISER, REMIGIO S.                                               KBL                      5,249","3/12","BOHOL","07","board member","3RD DISTRICT"," 5,249",NA,"BOISER, REMIGIO S.","",TRUE
+"89","GULLE, WILLIAM -                                                 -                        3,467","3/12","BOHOL","07","board member","3RD DISTRICT"," 3,467",NA,"GULLE, WILLIAM -","-",FALSE
+"90","PELIGRO, MOISES E.                                               KBL                      1,783","3/12","BOHOL","07","board member","3RD DISTRICT"," 1,783",NA,"PELIGRO, MOISES E.","",TRUE
+"91","MUMAR, PERFECTO A.                                               KBL                       425","3/12","BOHOL","07","board member","3RD DISTRICT"," 425",NA,"MUMAR, PERFECTO A.","",TRUE
+"92","GULLAS, EDUARDO R.             EDDIE                              NPC                      68,269   May 20,1992","4/12","CEBU","07","congressman","1ST DISTRICT"," 68,269","May 20,1992","GULLAS, EDUARDO R.","NPC",TRUE
+"93","BACALTOS, ANTONIO T.                                              LAKAS-NUCD               37,751","4/12","CEBU","07","congressman","1ST DISTRICT"," 37,751",NA,"BACALTOS, ANTONIO T.","",TRUE
+"94","CAVAN, MILAGROS R.                                                LDP                      6,172","4/12","CEBU","07","congressman","1ST DISTRICT"," 6,172",NA,"CAVAN, MILAGROS R.","",TRUE
+"95","HEGNA, SUENNUNG S.                                                ESP                        25","4/12","CEBU","07","congressman","1ST DISTRICT"," 25",NA,"HEGNA, SUENNUNG S.","",TRUE
+"96","ABINES, CRISOLOGO A.           SOL                                LDP                      58,251   May 19,1992","4/12","CEBU","07","congressman","2ND DISTRICT"," 58,251","May 19,1992","ABINES, CRISOLOGO A.","LDP",TRUE
+"97","KINTANAR, GALILEO C.                                              LAKAS-NUCD               54,339","4/12","CEBU","07","congressman","2ND DISTRICT"," 54,339",NA,"KINTANAR, GALILEO C.","",TRUE
+"98","SANTOS, NORMAN B.                                                 KBL                       641","4/12","CEBU","07","congressman","2ND DISTRICT"," 641",NA,"SANTOS, NORMAN B.","",TRUE
+"99","GARCIA, PABLO P.               PABLING                            LAKAS-NUCD               57,902   May 20,1992","4/12","CEBU","07","congressman","3RD DISTRICT"," 57,902","May 20,1992","GARCIA, PABLO P.","LAKAS-NUCD",TRUE
+"100","SELMA, WALTER C.                                                  NPC                      20,618","4/12","CEBU","07","congressman","3RD DISTRICT"," 20,618",NA,"SELMA, WALTER C.","",TRUE
+"101","SYBICO, CELESTINO SR. N.                                          LDP                      15,102","4/12","CEBU","07","congressman","3RD DISTRICT"," 15,102",NA,"SYBICO, CELESTINO SR. N.","",TRUE
+"102","RAFOLS, ELMERA E.                                                 LP/PDP LABAN              847","4/12","CEBU","07","congressman","3RD DISTRICT"," 847",NA,"RAFOLS, ELMERA E.","",TRUE
+"103","MARTINEZ, CELESTINO JR. E.     JUNIE                              LDP                      66,834   May 19,1992","4/12","CEBU","07","congressman","4TH DISTRICT"," 66,834","May 19,1992","MARTINEZ, CELESTINO JR. E.","LDP",TRUE
+"104","YBAÑEZ, ROBERTO M.                                                LAKAS-NUCD               29,976","4/12","CEBU","07","congressman","4TH DISTRICT"," 29,976",NA,"YBAÑEZ, ROBERTO M.","",TRUE
+"105","BOOK, JESUSA N.                                                   KBL                      1,156","4/12","CEBU","07","congressman","4TH DISTRICT"," 1,156",NA,"BOOK, JESUSA N.","",TRUE
+"106","DURANO, RAMON III D.           NITO                               LDP                      88,463   May 18,1992","4/12","CEBU","07","congressman","5TH DISTRICT"," 88,463","May 18,1992","DURANO, RAMON III D.","LDP",TRUE
+"107","TIONKO, FELIPE M.                                                 LAKAS-NUCD               14,642","4/12","CEBU","07","congressman","5TH DISTRICT"," 14,642",NA,"TIONKO, FELIPE M.","",TRUE
+"108","WAGAS, GILBERT -                                                  KBL                      5,181","4/12","CEBU","07","congressman","5TH DISTRICT"," 5,181",NA,"WAGAS, GILBERT -","",TRUE
+"109","RUIZ, NERISSA CORAZON S.       DOCTORA NERRY                      NPC                      47,056   May 23,1992","4/12","CEBU","07","congressman","6TH DISTRICT"," 47,056","May 23,1992","RUIZ, NERISSA CORAZON S.","NPC",TRUE
+"110","OSMEÑA, SERGIO R.                                                 LAKAS-NUCD               40,860","4/12","CEBU","07","congressman","6TH DISTRICT"," 40,860",NA,"OSMEÑA, SERGIO R.","",TRUE
+"111","BAQUEL, JOSEPH ADONIS M.                                          LDP                      28,403","4/12","CEBU","07","congressman","6TH DISTRICT"," 28,403",NA,"BAQUEL, JOSEPH ADONIS M.","",TRUE
+"112","OSORIO, LANIVO M.                                                 NP                       3,288","4/12","CEBU","07","congressman","6TH DISTRICT"," 3,288",NA,"OSORIO, LANIVO M.","",TRUE
+"113","MINORIA, VITO J                                                   KBL                      1,644","4/12","CEBU","07","congressman","6TH DISTRICT"," 1,644",NA,"MINORIA, VITO J","",TRUE
+"114","SOCO, CORSINO B.                                                  KBL                      1,081","4/12","CEBU","07","congressman","6TH DISTRICT"," 1,081",NA,"SOCO, CORSINO B.","",TRUE
+"115","DELA SERNA, VICENTE L.         TINGTING                           LDP                     278,202   June 29,1992","4/12","CEBU","07","governor",""," 278,202","June 29,1992","DELA SERNA, VICENTE L.","LDP",TRUE
+"116","OSMEÑA, ANNETTE V.                                              NUCD-UMDP               234,181","5/12","CEBU","07","governor",""," 234,181",NA,"OSMEÑA, ANNETTE V.","",TRUE
+"117","RAMA, ENRIQUE P                                                 NPC                      91,564","5/12","CEBU","07","governor",""," 91,564",NA,"RAMA, ENRIQUE P","",TRUE
+"118","ZOSA, MARIANO A.                                                KBL                      6,318","5/12","CEBU","07","governor",""," 6,318",NA,"ZOSA, MARIANO A.","",TRUE
+"119","ABINES, APOLONIO JR. A.        ETI                              LDP                     218,634   June 29,1992","5/12","CEBU","07","vice governor",""," 218,634","June 29,1992","ABINES, APOLONIO JR. A.","LDP",TRUE
+"120","SANCHEZ, GREGORIO JR. G.                                        NUCD-UMDP               199,099","5/12","CEBU","07","vice governor",""," 199,099",NA,"SANCHEZ, GREGORIO JR. G.","",TRUE
+"121","DUMON, VICTOR S.                                                NPC                      86,518","5/12","CEBU","07","vice governor",""," 86,518",NA,"DUMON, VICTOR S.","",TRUE
+"122","GICA, EDGAR F.                                                  KBL                      15,069","5/12","CEBU","07","vice governor",""," 15,069",NA,"GICA, EDGAR F.","",TRUE
+"123","BACALTOS, RAUL D.              BOY                              LAKAS-NUCD               36,443   June 29,1992","5/12","CEBU","07","board member","1ST DISTRICT"," 36,443","June 29,1992","BACALTOS, RAUL D.","LAKAS-NUCD",TRUE
+"124","BOLO, JUAN V.                  JOHN                             NPC                      30,128   June 29,1992","5/12","CEBU","07","board member","1ST DISTRICT"," 30,128","June 29,1992","BOLO, JUAN V.","NPC",TRUE
+"125","ENAD, LEONARDO G.                                               LP/PDP                   14,287","5/12","CEBU","07","board member","1ST DISTRICT"," 14,287",NA,"ENAD, LEONARDO G.","",TRUE
+"126","AZNAR, GEORGE J                                                 LDP                      8,727","5/12","CEBU","07","board member","1ST DISTRICT"," 8,727",NA,"AZNAR, GEORGE J","",TRUE
+"127","CUI, CRISTINO SR. C.                                            NUCD-UMDP                7,203","5/12","CEBU","07","board member","1ST DISTRICT"," 7,203",NA,"CUI, CRISTINO SR. C.","",TRUE
+"128","PATALINGHUG, LEANDRO M.                                         KBL                      4,480","5/12","CEBU","07","board member","1ST DISTRICT"," 4,480",NA,"PATALINGHUG, LEANDRO M.","",TRUE
+"129","POCA, RODERIC R.                                                LDP                      3,215","5/12","CEBU","07","board member","1ST DISTRICT"," 3,215",NA,"POCA, RODERIC R.","",TRUE
+"130","NAVALES, ALBERTO S.                                             KBL                       858","5/12","CEBU","07","board member","1ST DISTRICT"," 858",NA,"NAVALES, ALBERTO S.","",TRUE
+"131","ECHAVEZ, JOSE B.                                                KBL                       363","5/12","CEBU","07","board member","1ST DISTRICT"," 363",NA,"ECHAVEZ, JOSE B.","",TRUE
+"132","MORANTE, HERNANDO P.                                            INDEPENDENT               160","5/12","CEBU","07","board member","1ST DISTRICT"," 160",NA,"MORANTE, HERNANDO P.","",TRUE
+"133","MANREAL, EDITHA A.                                              KBL                        42","5/12","CEBU","07","board member","1ST DISTRICT"," 42",NA,"MANREAL, EDITHA A.","",TRUE
+"134","CELESTIAL, FERMIN S.           NANDING                          NUCD-UMDP                57,733   May 25,1992","5/12","CEBU","07","board member","2ND DISTRICT"," 57,733","May 25,1992","CELESTIAL, FERMIN S.","NUCD-UMDP",TRUE
+"135","ROGERO, LAUREANO G.                                             LDP                      25,945","5/12","CEBU","07","board member","2ND DISTRICT"," 25,945",NA,"ROGERO, LAUREANO G.","",TRUE
+"136","GELBOLINGO, ROMANO M.                                           NPC                      7,010","5/12","CEBU","07","board member","2ND DISTRICT"," 7,010",NA,"GELBOLINGO, ROMANO M.","",TRUE
+"137","DEE, ESTUDITA A.                                                LDP                      4,452","5/12","CEBU","07","board member","2ND DISTRICT"," 4,452",NA,"DEE, ESTUDITA A.","",TRUE
+"138","SUERTE, ILDEFONSO B.                                            KBL                       872","5/12","CEBU","07","board member","2ND DISTRICT"," 872",NA,"SUERTE, ILDEFONSO B.","",TRUE
+"139","ERAC, DEOGRACIAS J                                              LP/PDP                    403","5/12","CEBU","07","board member","2ND DISTRICT"," 403",NA,"ERAC, DEOGRACIAS J","",TRUE
+"140","GONZALES, LEO BENEDICT K.                                       LAKAS-NUCD                351","5/12","CEBU","07","board member","2ND DISTRICT"," 351",NA,"GONZALES, LEO BENEDICT K.","",TRUE
+"141","GARCIA, WINSTON F.             WINSTON                          NUCD-UMDP                40,606   May 24,1992","5/12","CEBU","07","board member","3RD DISTRICT"," 40,606","May 24,1992","GARCIA, WINSTON F.","NUCD-UMDP",TRUE
+"142","GONZALES, BIENVENIDO Y.        BEN                              LAKAS-NUCD               32,570   May 24,1992","5/12","CEBU","07","board member","3RD DISTRICT"," 32,570","May 24,1992","GONZALES, BIENVENIDO Y.","LAKAS-NUCD",TRUE
+"143","BORJA, JEFFREY E.                                               INDEPENDENT              18,937","5/12","CEBU","07","board member","3RD DISTRICT"," 18,937",NA,"BORJA, JEFFREY E.","",TRUE
+"144","ASAS, JONATHAN M.                                               LDP                      10,262","5/12","CEBU","07","board member","3RD DISTRICT"," 10,262",NA,"ASAS, JONATHAN M.","",TRUE
+"145","VILLAFLOR, ANTONIO A.                                          NPC                      7,748","6/12","CEBU","07","board member","3RD DISTRICT"," 7,748",NA,"VILLAFLOR, ANTONIO A.","",TRUE
+"146","DEL ROSARIO, PANTALEON U.                                      LDP-IND                  7,346","6/12","CEBU","07","board member","3RD DISTRICT"," 7,346",NA,"DEL ROSARIO, PANTALEON U.","",TRUE
+"147","PANCHO, ALMAMETO S.                                            NPC                      7,045","6/12","CEBU","07","board member","3RD DISTRICT"," 7,045",NA,"PANCHO, ALMAMETO S.","",TRUE
+"148","OPINA, RAMONCITO Z.                                            NP                       4,434","6/12","CEBU","07","board member","3RD DISTRICT"," 4,434",NA,"OPINA, RAMONCITO Z.","",TRUE
+"149","AGUILAR, PATRICIO R.                                           INDEPENDENT              2,959","6/12","CEBU","07","board member","3RD DISTRICT"," 2,959",NA,"AGUILAR, PATRICIO R.","",TRUE
+"150","SON, JETHRO N.                                                 INDEPENDENT               855","6/12","CEBU","07","board member","3RD DISTRICT"," 855",NA,"SON, JETHRO N.","",TRUE
+"151","FAJARDO, GAMELO M.                                             KBL                       709","6/12","CEBU","07","board member","3RD DISTRICT"," 709",NA,"FAJARDO, GAMELO M.","",TRUE
+"152","MARTINEZ, MARIANO R.           MAR                             LDP                      37,696   May 24,1992","6/12","CEBU","07","board member","4TH DISTRICT"," 37,696","May 24,1992","MARTINEZ, MARIANO R.","LDP",TRUE
+"153","SALIMBANGON, BENHUR L.         BEN                             LDP                      35,807   May 24,1992","6/12","CEBU","07","board member","4TH DISTRICT"," 35,807","May 24,1992","SALIMBANGON, BENHUR L.","LDP",TRUE
+"154","MONTECLAR, CRISOLOGO R.                                        NUCD                     21,931","6/12","CEBU","07","board member","4TH DISTRICT"," 21,931",NA,"MONTECLAR, CRISOLOGO R.","",TRUE
+"155","HOLGANZA, JOSE RIBOMAPIL JR D.                                 PMP                      20,530","6/12","CEBU","07","board member","4TH DISTRICT"," 20,530",NA,"HOLGANZA, JOSE RIBOMAPIL JR D.","",TRUE
+"156","HERNAEZ, EMILIO H.                                             NPC                      6,887","6/12","CEBU","07","board member","4TH DISTRICT"," 6,887",NA,"HERNAEZ, EMILIO H.","",TRUE
+"157","MONTECILLO, VICTORIANO U.                                      NPC                      4,728","6/12","CEBU","07","board member","4TH DISTRICT"," 4,728",NA,"MONTECILLO, VICTORIANO U.","",TRUE
+"158","ARNADO, TEOFILO SR P.                                          INDEPENDENT              3,109","6/12","CEBU","07","board member","4TH DISTRICT"," 3,109",NA,"ARNADO, TEOFILO SR P.","",TRUE
+"159","CARATAO, ORLANDO P.                                            NP                       2,041","6/12","CEBU","07","board member","4TH DISTRICT"," 2,041",NA,"CARATAO, ORLANDO P.","",TRUE
+"160","MONTERROYO, RICARDO JR. S.                                     NPC                      1,553","6/12","CEBU","07","board member","4TH DISTRICT"," 1,553",NA,"MONTERROYO, RICARDO JR. S.","",TRUE
+"161","CANETE, MAXIMO B.                                              INDEPENDENT               807","6/12","CEBU","07","board member","4TH DISTRICT"," 807",NA,"CANETE, MAXIMO B.","",TRUE
+"162","VILLACRUSIS, SALVADOR S.                                       KBL                       299","6/12","CEBU","07","board member","4TH DISTRICT"," 299",NA,"VILLACRUSIS, SALVADOR S.","",TRUE
+"163","MAGPALE, AGNES A.              AGNES                           LDP                      40,741   May 24,1992","6/12","CEBU","07","board member","5TH DISTRICT"," 40,741","May 24,1992","MAGPALE, AGNES A.","LDP",TRUE
+"164","CALDERON, BEATRIZ D.                                           LAKAS-NUCD               27,813","6/12","CEBU","07","board member","5TH DISTRICT"," 27,813",NA,"CALDERON, BEATRIZ D.","",TRUE
+"165","GARCIA, WILLIAM E.                                             NP                       1,545","6/12","CEBU","07","board member","5TH DISTRICT"," 1,545",NA,"GARCIA, WILLIAM E.","",TRUE
+"166","CUIZON, CELSO P.                                               INDEPENDENT               394","6/12","CEBU","07","board member","5TH DISTRICT"," 394",NA,"CUIZON, CELSO P.","",TRUE
+"167","PEPITO, EMMANUEL Y.            BEBS                            NPC                      49,952   May 24,1992","6/12","CEBU","07","board member","6TH DISTRICT"," 49,952","May 24,1992","PEPITO, EMMANUEL Y.","NPC",TRUE
+"168","MERCADO, FEDERICO B.           PEDONG                          NUCD-UMDP                37,324   May 24,1992","6/12","CEBU","07","board member","6TH DISTRICT"," 37,324","May 24,1992","MERCADO, FEDERICO B.","NUCD-UMDP",TRUE
+"169","TEVES, EDUARDO S.                                              NUCD-UMDP                35,088","6/12","CEBU","07","board member","6TH DISTRICT"," 35,088",NA,"TEVES, EDUARDO S.","",TRUE
+"170","MANGUBAT, ROLDAN R.                                            LDP                      34,906","6/12","CEBU","07","board member","6TH DISTRICT"," 34,906",NA,"MANGUBAT, ROLDAN R.","",TRUE
+"171","BLANCO, CYNTHIA S.                                             NPC                      23,106","6/12","CEBU","07","board member","6TH DISTRICT"," 23,106",NA,"BLANCO, CYNTHIA S.","",TRUE
+"172","DACALOS, EMILIA D.                                             LDP-IND                  14,265","6/12","CEBU","07","board member","6TH DISTRICT"," 14,265",NA,"DACALOS, EMILIA D.","",TRUE
+"173","MATA, ALBERTINO SR. A.                                         NP                       9,372","6/12","CEBU","07","board member","6TH DISTRICT"," 9,372",NA,"MATA, ALBERTINO SR. A.","",TRUE
+"174","CANETE, LEODEGARIO C.                                          INDEPENDENT              5,996","6/12","CEBU","07","board member","6TH DISTRICT"," 5,996",NA,"CANETE, LEODEGARIO C.","",TRUE
+"175","DULCERO, MELENCIO M.                                           LP                       2,229","6/12","CEBU","07","board member","6TH DISTRICT"," 2,229",NA,"DULCERO, MELENCIO M.","",TRUE
+"176","DEL MAR, RAUL V.               RAUL                          PARTIDO PANAGHIUSA       70,960   May 17,1992","7/12","CEBU","07","congressman","1ST DISTRICT"," 70,960","May 17,1992","DEL MAR, RAUL V.","PARTIDO PANAGHIUSA",TRUE
+"177","REMONDE, CERGE -                                             LDP                      23,319","7/12","CEBU","07","congressman","1ST DISTRICT"," 23,319",NA,"REMONDE, CERGE -","",TRUE
+"178","PIÑAMIDE, AVENESCIO -                                        NPC                      23,270","7/12","CEBU","07","congressman","1ST DISTRICT"," 23,270",NA,"PIÑAMIDE, AVENESCIO -","",TRUE
+"179","DEL MAR, SATURNINO -                                         KBL EDSA                  311","7/12","CEBU","07","congressman","1ST DISTRICT"," 311",NA,"DEL MAR, SATURNINO -","",TRUE
+"180","FAMOR, JUDE THADEO M.                                        KBL-INDEPENDENT           207","7/12","CEBU","07","congressman","1ST DISTRICT"," 207",NA,"FAMOR, JUDE THADEO M.","",TRUE
+"181","CUENCO, ANTONIO V.             TONY                          LDP                      87,260   May 24,1992","7/12","CEBU","07","congressman","2ND DISTRICT"," 87,260","May 24,1992","CUENCO, ANTONIO V.","LDP",TRUE
+"182","CRYSTAL, REY ESTANISLAO C.                                   NPC                      11,198","7/12","CEBU","07","congressman","2ND DISTRICT"," 11,198",NA,"CRYSTAL, REY ESTANISLAO C.","",TRUE
+"183","ONG, LORETO F.                                               KBL                       728","7/12","CEBU","07","congressman","2ND DISTRICT"," 728",NA,"ONG, LORETO F.","",TRUE
+"184","ABADILLA, VIRGILIO G.                                        INDEPENDENT               328","7/12","CEBU","07","congressman","2ND DISTRICT"," 328",NA,"ABADILLA, VIRGILIO G.","",TRUE
+"185","BAUTISTA, ANIANO D.                                          PRP                       225","7/12","CEBU","07","congressman","2ND DISTRICT"," 225",NA,"BAUTISTA, ANIANO D.","",TRUE
+"186","SUAREZ, ALEJANDRO -                                          -                         190","7/12","CEBU","07","congressman","2ND DISTRICT"," 190",NA,"SUAREZ, ALEJANDRO -","-",FALSE
+"187","PARAS, JEROME V.              JERRY                          LAKAS-NUCD               47,678   May 20,1992","8/12","NEGROS ORIENTAL","07","congressman","1ST DISTRICT"," 47,678","May 20,1992","PARAS, JEROME V.","LAKAS-NUCD",TRUE
+"188","BUSTAMANTE, ANDRES C.                                        NPC                      40,303","8/12","NEGROS ORIENTAL","07","congressman","1ST DISTRICT"," 40,303",NA,"BUSTAMANTE, ANDRES C.","",TRUE
+"189","BAGUIO, ALFONSO B.                                           INDEPENDENT               192","8/12","NEGROS ORIENTAL","07","congressman","1ST DISTRICT"," 192",NA,"BAGUIO, ALFONSO B.","",TRUE
+"190","BONGOYAN, ROLLY A.                                           LDP                        69","8/12","NEGROS ORIENTAL","07","congressman","1ST DISTRICT"," 69",NA,"BONGOYAN, ROLLY A.","",TRUE
+"191","ROMERO, MIGUEL L.             MIKE                           LDP                      64,585   May 18,1992","8/12","NEGROS ORIENTAL","07","congressman","2ND DISTRICT"," 64,585","May 18,1992","ROMERO, MIGUEL L.","LDP",TRUE
+"192","SYCIP, JOANIE D.                                             NPC                      37,244","8/12","NEGROS ORIENTAL","07","congressman","2ND DISTRICT"," 37,244",NA,"SYCIP, JOANIE D.","",TRUE
+"193","ALDECOA, VENANCIO JR. D.                                     LAKAS-NUCD               7,743","8/12","NEGROS ORIENTAL","07","congressman","2ND DISTRICT"," 7,743",NA,"ALDECOA, VENANCIO JR. D.","",TRUE
+"194","MAXIMO, GERARDO C.                                           INDEPENDENT              1,084","8/12","NEGROS ORIENTAL","07","congressman","2ND DISTRICT"," 1,084",NA,"MAXIMO, GERARDO C.","",TRUE
+"195","REMOLLO, EDGAR P.                                            KBL                       196","8/12","NEGROS ORIENTAL","07","congressman","2ND DISTRICT"," 196",NA,"REMOLLO, EDGAR P.","",TRUE
+"196","ANINON, RAUL S.                                              KBL                        37","8/12","NEGROS ORIENTAL","07","congressman","2ND DISTRICT"," 37",NA,"ANINON, RAUL S.","",TRUE
+"197","TEVES, MARGARITO B.           GARY                           LDP                      40,276   May 19,1992","8/12","NEGROS ORIENTAL","07","congressman","3RD DISTRICT"," 40,276","May 19,1992","TEVES, MARGARITO B.","LDP",TRUE
+"198","YAP, TEOFISTO F.                                             NPC                      23,392","8/12","NEGROS ORIENTAL","07","congressman","3RD DISTRICT"," 23,392",NA,"YAP, TEOFISTO F.","",TRUE
+"199","GAUDIEL, FELIX G.                                            LAKAS-NUCD               9,678","8/12","NEGROS ORIENTAL","07","congressman","3RD DISTRICT"," 9,678",NA,"GAUDIEL, FELIX G.","",TRUE
+"200","MAGSAYSAY, GENEROSO R.                                       KBL                      2,157","8/12","NEGROS ORIENTAL","07","congressman","3RD DISTRICT"," 2,157",NA,"MAGSAYSAY, GENEROSO R.","",TRUE
+"201","MACIAS, EMILIO II C.          DODO                           NPC                     148,880   May 20,1992","8/12","NEGROS ORIENTAL","07","governor",""," 148,880","May 20,1992","MACIAS, EMILIO II C.","NPC",TRUE
+"202","PARAS, JACINTO V.                                            LAKAS-NUCD               50,760","8/12","NEGROS ORIENTAL","07","governor",""," 50,760",NA,"PARAS, JACINTO V.","",TRUE
+"203","TIRAMBULO, ROMULO P.                                         LDP                      22,845","8/12","NEGROS ORIENTAL","07","governor",""," 22,845",NA,"TIRAMBULO, ROMULO P.","",TRUE
+"204","TEVES, ARISTON J                                             KBL                       704","8/12","NEGROS ORIENTAL","07","governor",""," 704",NA,"TEVES, ARISTON J","",TRUE
+"205","ARNAIZ, GEORGE P.             GING                           NPC                      84,093   May 20,1992","8/12","NEGROS ORIENTAL","07","vice governor",""," 84,093","May 20,1992","ARNAIZ, GEORGE P.","NPC",TRUE
+"206","TEVES, HERMINIO JR. V.                                       LDP                      72,577","8/12","NEGROS ORIENTAL","07","vice governor",""," 72,577",NA,"TEVES, HERMINIO JR. V.","",TRUE
+"207","BELTRAN, FLORIANO AL O.                                      LAKAS-NUCD               47,648","8/12","NEGROS ORIENTAL","07","vice governor",""," 47,648",NA,"BELTRAN, FLORIANO AL O.","",TRUE
+"208","FABRUADA, ELNORA G.                                          INDEPENDENT              1,734","8/12","NEGROS ORIENTAL","07","vice governor",""," 1,734",NA,"FABRUADA, ELNORA G.","",TRUE
+"209","GONZALES, CANDELARIO V.                                      LP                        424","8/12","NEGROS ORIENTAL","07","vice governor",""," 424",NA,"GONZALES, CANDELARIO V.","",TRUE
+"210","BROMO, LEA G.                  LEA                                LAKAS-NUCD               26,313   May 21,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 26,313","May 21,1992","BROMO, LEA G.","LAKAS-NUCD",TRUE
+"211","BESARIO, EXEQUIEL S.           QUIEL                              LAKAS-NUCD               19,294   May 21,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 19,294","May 21,1992","BESARIO, EXEQUIEL S.","LAKAS-NUCD",TRUE
+"212","TRINIDAD, VICENTE B.           INTING                             LAKAS-NUCD               17,655   May 21,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 17,655","May 21,1992","TRINIDAD, VICENTE B.","LAKAS-NUCD",TRUE
+"213","VILLARIN, FRUCTOSO T.                                             LDP                      15,743","9/12","NEGROS ORIENTAL","07","vice governor",""," 15,743",NA,"VILLARIN, FRUCTOSO T.","",TRUE
+"214","ENARDECIDO, MICHAEL P.                                            LDP                      12,424","9/12","NEGROS ORIENTAL","07","vice governor",""," 12,424",NA,"ENARDECIDO, MICHAEL P.","",TRUE
+"215","BAYAWA, ISIDRO G.                                                 LDP                      9,807","9/12","NEGROS ORIENTAL","07","vice governor",""," 9,807",NA,"BAYAWA, ISIDRO G.","",TRUE
+"216","DIONALDO, VICENTE L.                                              NPC                      9,020","9/12","NEGROS ORIENTAL","07","vice governor",""," 9,020",NA,"DIONALDO, VICENTE L.","",TRUE
+"217","ARANAS, HILARION T.                                               NPC                      9,000","9/12","NEGROS ORIENTAL","07","vice governor",""," 9,000",NA,"ARANAS, HILARION T.","",TRUE
+"218","BAUTISTA, HAZEL T.                                                LDP                      5,499","9/12","NEGROS ORIENTAL","07","vice governor",""," 5,499",NA,"BAUTISTA, HAZEL T.","",TRUE
+"219","KHO, CORAZON L.                                                   PDP                      5,249","9/12","NEGROS ORIENTAL","07","vice governor",""," 5,249",NA,"KHO, CORAZON L.","",TRUE
+"220","VAILOCES, QUINCIANO D.                                            INDEPENDENT              2,855","9/12","NEGROS ORIENTAL","07","vice governor",""," 2,855",NA,"VAILOCES, QUINCIANO D.","",TRUE
+"221","GARUPA, PRIMOLITO G.                                              NP                       2,671","9/12","NEGROS ORIENTAL","07","vice governor",""," 2,671",NA,"GARUPA, PRIMOLITO G.","",TRUE
+"222","ALVIOLA, DEMETRIO E.                                              KBL                       718","9/12","NEGROS ORIENTAL","07","vice governor",""," 718",NA,"ALVIOLA, DEMETRIO E.","",TRUE
+"223","SAYCON, MELIMORE C.            MELY                               LDP                      39,642   May 20,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 39,642","May 20,1992","SAYCON, MELIMORE C.","LDP",TRUE
+"224","VILLEGAS, MARIA ANTONIA C.     MARIANT                            LDP                      26,650   May 20,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 26,650","May 20,1992","VILLEGAS, MARIA ANTONIA C.","LDP",TRUE
+"225","ERAMES, SALITO J.              SAL                                NPC                      24,498   May 20,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 24,498","May 20,1992","ERAMES, SALITO J.","NPC",TRUE
+"226","REMOLLO, ORLANDO V.            LANDO ROMOLLO                      LDP                      21,961   May 21,1992","9/12","NEGROS ORIENTAL","07","vice governor",""," 21,961","May 21,1992","REMOLLO, ORLANDO V.","LDP",TRUE
+"227","TEVES, SERAFIN JR. M.                                             NPC                      19,058","9/12","NEGROS ORIENTAL","07","vice governor",""," 19,058",NA,"TEVES, SERAFIN JR. M.","",TRUE
+"228","LLOSA, JOEL A.                                                    LP-PDP LABAN             18,586","9/12","NEGROS ORIENTAL","07","vice governor",""," 18,586",NA,"LLOSA, JOEL A.","",TRUE
+"229","VICENTE, ANGELA B.                                                LDP                      15,919","9/12","NEGROS ORIENTAL","07","vice governor",""," 15,919",NA,"VICENTE, ANGELA B.","",TRUE
+"230","VICTORIANO, MARILEN -                                             NPC                      15,063","9/12","NEGROS ORIENTAL","07","vice governor",""," 15,063",NA,"VICTORIANO, MARILEN -","",TRUE
+"231","PONCE DE LEON, JOSE RAMON A.                                      NP                       8,218","9/12","NEGROS ORIENTAL","07","vice governor",""," 8,218",NA,"PONCE DE LEON, JOSE RAMON A.","",TRUE
+"232","OLLAGUE, FERNANDO JR. S.                                          LAKAS-NUCD               6,697","9/12","NEGROS ORIENTAL","07","vice governor",""," 6,697",NA,"OLLAGUE, FERNANDO JR. S.","",TRUE
+"233","TAM, FREDDIE ROGER Y.                                             LAKAS-NUCD               6,578","9/12","NEGROS ORIENTAL","07","vice governor",""," 6,578",NA,"TAM, FREDDIE ROGER Y.","",TRUE
+"234","DINOY, TOLOMEO A.                                                 LP                       6,280","9/12","NEGROS ORIENTAL","07","vice governor",""," 6,280",NA,"DINOY, TOLOMEO A.","",TRUE
+"235","PENA, JOSE O.                                                     LAKAS-NUCD               4,859","9/12","NEGROS ORIENTAL","07","vice governor",""," 4,859",NA,"PENA, JOSE O.","",TRUE
+"236","DIAGO, MARCEL A.                                                  LAKAS-NUCD               4,494","9/12","NEGROS ORIENTAL","07","vice governor",""," 4,494",NA,"DIAGO, MARCEL A.","",TRUE
+"237","SILVA, HIMINIANO D.                                               LP-PDP LABAN             4,246","9/12","NEGROS ORIENTAL","07","vice governor",""," 4,246",NA,"SILVA, HIMINIANO D.","",TRUE
+"238","BAGUIO, JOSE C.                                                   NP                       4,151","9/12","NEGROS ORIENTAL","07","vice governor",""," 4,151",NA,"BAGUIO, JOSE C.","",TRUE
+"239","TORRES, SULPICIO B.                                               PRP                      3,744","9/12","NEGROS ORIENTAL","07","vice governor",""," 3,744",NA,"TORRES, SULPICIO B.","",TRUE
+"240","ANITO, HANSEL T.                                                  PDP                      3,570","9/12","NEGROS ORIENTAL","07","vice governor",""," 3,570",NA,"ANITO, HANSEL T.","",TRUE
+"241","ESPLAGO, DIEGO R.                                                 PRP                      3,034","9/12","NEGROS ORIENTAL","07","vice governor",""," 3,034",NA,"ESPLAGO, DIEGO R.","",TRUE
+"242","GARCES, VICTORIA A.                                               PRP                      2,492","9/12","NEGROS ORIENTAL","07","vice governor",""," 2,492",NA,"GARCES, VICTORIA A.","",TRUE
+"243","MORENO, MANUEL V.                                                 KBL                       967","9/12","NEGROS ORIENTAL","07","vice governor",""," 967",NA,"MORENO, MANUEL V.","",TRUE
+"244","ALBITO, SERAFIN R.            APIN                            LDP                      18,675   May 20,1992","10/12","NEGROS ORIENTAL","07","vice governor",""," 18,675","May 20,1992","ALBITO, SERAFIN R.","LDP",TRUE
+"245","CARBALLO, CLOTILDE O.         TILING                          LDP                      17,975   May 20,1992","10/12","NEGROS ORIENTAL","07","vice governor",""," 17,975","May 20,1992","CARBALLO, CLOTILDE O.","LDP",TRUE
+"246","NAPIGKIT, GLORIA F.           GLOR                            NPC                      16,048   May 20,1992","10/12","NEGROS ORIENTAL","07","vice governor",""," 16,048","May 20,1992","NAPIGKIT, GLORIA F.","NPC",TRUE
+"247","MARTINEZ, ISMAEL P.                                           NPC                      14,898","10/12","NEGROS ORIENTAL","07","vice governor",""," 14,898",NA,"MARTINEZ, ISMAEL P.","",TRUE
+"248","ARBOLADO, ARTURO C.                                           LDP                      14,795","10/12","NEGROS ORIENTAL","07","vice governor",""," 14,795",NA,"ARBOLADO, ARTURO C.","",TRUE
+"249","JORDAN, AMORSOLO L.                                           NPC                      13,347","10/12","NEGROS ORIENTAL","07","vice governor",""," 13,347",NA,"JORDAN, AMORSOLO L.","",TRUE
+"250","ELMAN, NICOLAS -                                              INDEPENDENT              8,584","10/12","NEGROS ORIENTAL","07","vice governor",""," 8,584",NA,"ELMAN, NICOLAS -","",TRUE
+"251","MEDINA, PEDRO ANTONIO V.                                      NP                       7,182","10/12","NEGROS ORIENTAL","07","vice governor",""," 7,182",NA,"MEDINA, PEDRO ANTONIO V.","",TRUE
+"252","VINCOY, CESARIO P.                                            LAKAS-NUCD               6,407","10/12","NEGROS ORIENTAL","07","vice governor",""," 6,407",NA,"VINCOY, CESARIO P.","",TRUE
+"253","TIZON, VICTORIANO L.                                          PRP                      4,624","10/12","NEGROS ORIENTAL","07","vice governor",""," 4,624",NA,"TIZON, VICTORIANO L.","",TRUE
+"254","GAITERA, ABUNDIO V.                                           PRP                      4,076","10/12","NEGROS ORIENTAL","07","vice governor",""," 4,076",NA,"GAITERA, ABUNDIO V.","",TRUE
+"255","ADA, ILDEFONSO E.                                             LAKAS-NUCD               3,969","10/12","NEGROS ORIENTAL","07","vice governor",""," 3,969",NA,"ADA, ILDEFONSO E.","",TRUE
+"256","DIAO, TELESFORO A.                                            PRP                      3,916","10/12","NEGROS ORIENTAL","07","vice governor",""," 3,916",NA,"DIAO, TELESFORO A.","",TRUE
+"257","ECHAVEZ, LEANDRO B.                                           LP                       2,933","10/12","NEGROS ORIENTAL","07","vice governor",""," 2,933",NA,"ECHAVEZ, LEANDRO B.","",TRUE
+"258","ONTAL, NICKARTER A.                                           KBL                      2,420","10/12","NEGROS ORIENTAL","07","vice governor",""," 2,420",NA,"ONTAL, NICKARTER A.","",TRUE
+"259","GOMEZ, SOTERO L.                                              PRP                      2,188","10/12","NEGROS ORIENTAL","07","vice governor",""," 2,188",NA,"GOMEZ, SOTERO L.","",TRUE
+"260","RICONALLA, ALEJANDRO P.                                       KBL                      1,100","10/12","NEGROS ORIENTAL","07","vice governor",""," 1,100",NA,"RICONALLA, ALEJANDRO P.","",TRUE
+"261","FUA, ORLANDO B.             ORLAN                          LDP                      16,830   May 17,1992","11/12","SIQUIJOR","07","congressman","2ND DISTRICT"," 16,830","May 17,1992","FUA, ORLANDO B.","LDP",TRUE
+"262","AVANZADO, FIDELITO A.                                      NPC                      14,708","11/12","SIQUIJOR","07","congressman","2ND DISTRICT"," 14,708",NA,"AVANZADO, FIDELITO A.","",TRUE
+"263","LARGO, CELSO P.                                            LAKAS-NUCD               1,121","11/12","SIQUIJOR","07","congressman","2ND DISTRICT"," 1,121",NA,"LARGO, CELSO P.","",TRUE
+"264","SUAN, FERNANDO O.                                          NP                         2","11/12","SIQUIJOR","07","congressman","2ND DISTRICT"," 2",NA,"SUAN, FERNANDO O.",NA,NA
+"265","AQUINO, BEN P.              BEN                            LDP                      12,979   July 2,1992","11/12","SIQUIJOR","07","governor",""," 12,979","July 2,1992","AQUINO, BEN P.","LDP",TRUE
+"266","ASOK, MANOLITO L.                                          NPC                      8,175","11/12","SIQUIJOR","07","governor",""," 8,175",NA,"ASOK, MANOLITO L.","",TRUE
+"267","BALANAY, LUCITO B.                                         LAKAS-NUCD               5,692","11/12","SIQUIJOR","07","governor",""," 5,692",NA,"BALANAY, LUCITO B.","",TRUE
+"268","ROCAMORA, ELISEO N.                                        NP                       4,220","11/12","SIQUIJOR","07","governor",""," 4,220",NA,"ROCAMORA, ELISEO N.","",TRUE
+"269","PERNES, DOMINADOR M.                                       KBL                        83","11/12","SIQUIJOR","07","governor",""," 83",NA,"PERNES, DOMINADOR M.","",TRUE
+"270","QUEZON, RICHARD C.          DICK                           LDP                      11,405   July 2,1992","11/12","SIQUIJOR","07","vice governor",""," 11,405","July 2,1992","QUEZON, RICHARD C.","LDP",TRUE
+"271","CORTES, FELIX M.                                           NPC                      8,073","11/12","SIQUIJOR","07","vice governor",""," 8,073",NA,"CORTES, FELIX M.","",TRUE
+"272","LIGUTOM, FELIPE P.                                         NP                       3,698","11/12","SIQUIJOR","07","vice governor",""," 3,698",NA,"LIGUTOM, FELIPE P.","",TRUE
+"273","LOZANO, ANASTACIO P.                                       LAKAS-NUCD               2,179","11/12","SIQUIJOR","07","vice governor",""," 2,179",NA,"LOZANO, ANASTACIO P.","",TRUE
+"274","VIOS, JOSE P.                                              KBL                       258","11/12","SIQUIJOR","07","vice governor",""," 258",NA,"VIOS, JOSE P.","",TRUE
+"275","CHAN, ARTHUR M.             ART                            LAKAS-NUCD               6,094    July 2,1992","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 6,094","July 2,1992","CHAN, ARTHUR M.","LAKAS-NUCD",TRUE
+"276","MAGBANUA, AMALIO H.         MALY                           LDP                      3,973    July 2,1992","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 3,973","July 2,1992","MAGBANUA, AMALIO H.","LDP",TRUE
+"277","CALUNOD, AMADO T.           MAD,S                          NPC                      3,915    July 2,1992","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 3,915","July 2,1992","CALUNOD, AMADO T.","NPC",TRUE
+"278","CAYONGCONG, USUALDO T.                                     LDP                      3,767","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 3,767",NA,"CAYONGCONG, USUALDO T.","",TRUE
+"279","SIAO, VICENTE JR. R.                                       NPC                      3,387","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 3,387",NA,"SIAO, VICENTE JR. R.","",TRUE
+"280","OMICITIN, PAUL M.                                          NPC                      2,864","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 2,864",NA,"OMICITIN, PAUL M.","",TRUE
+"281","VILLA, ROGELIO JR. S.                                      LDP                      2,661","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 2,661",NA,"VILLA, ROGELIO JR. S.","",TRUE
+"282","DUHAYLONGSOD, LI S.                                        NP                       2,537","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 2,537",NA,"DUHAYLONGSOD, LI S.","",TRUE
+"283","GARCIA, FILIMORE S.                                        NP                       2,066","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 2,066",NA,"GARCIA, FILIMORE S.","",TRUE
+"284","ESOLANA, MAE C.                                            LAKAS-NUCD               1,347","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 1,347",NA,"ESOLANA, MAE C.","",TRUE
+"285","CARORO, ARLIN J                                            NP                        948","11/12","SIQUIJOR","07","board member","1ST DISTRICT"," 948",NA,"CARORO, ARLIN J","",TRUE
+"286","AGAN, LEONARDO C.                                            KBL                       597","12/12","SIQUIJOR","07","board member","1ST DISTRICT"," 597",NA,"AGAN, LEONARDO C.","",TRUE
+"287","ATIENZA, LORETO S.                                           PRP                       397","12/12","SIQUIJOR","07","board member","1ST DISTRICT"," 397",NA,"ATIENZA, LORETO S.","",TRUE
+"288","JUMALON, CESAR G.                                            PRP                       93","12/12","SIQUIJOR","07","board member","1ST DISTRICT"," 93",NA,"JUMALON, CESAR G.","",TRUE
+"289","LIGUTOM, CERINO P.           NINOY                           NPC                      4,253    July 2,1992","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 4,253","July 2,1992","LIGUTOM, CERINO P.","NPC",TRUE
+"290","LUMINGKIT, ULYSSES C.        ULY                             LDP                      4,226    July 2,1992","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 4,226","July 2,1992","LUMINGKIT, ULYSSES C.","LDP",TRUE
+"291","VIOS, IRVING ROY A.          BOBONG                          KBL                      4,194    July 2,1992","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 4,194","July 2,1992","VIOS, IRVING ROY A.","KBL",TRUE
+"292","CATOT, STANLEY C.                                            NPC                      4,142","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 4,142",NA,"CATOT, STANLEY C.","",TRUE
+"293","GUMALO, CESAR SR. G.                                         LDP                      3,298","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 3,298",NA,"GUMALO, CESAR SR. G.","",TRUE
+"294","LUMACAD, DEMETRIO D.                                         LDP                      2,696","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 2,696",NA,"LUMACAD, DEMETRIO D.","",TRUE
+"295","ANGOT, BIENVENIDO G.                                         LDP                      2,689","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 2,689",NA,"ANGOT, BIENVENIDO G.","",TRUE
+"296","PAGLINAWAN, DEXTER G.                                        LAKAS-NUCD               2,137","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 2,137",NA,"PAGLINAWAN, DEXTER G.","",TRUE
+"297","SAMSON, FELIX L.                                             LAKAS-NUCD               1,346","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 1,346",NA,"SAMSON, FELIX L.","",TRUE
+"298","NAVERA, PETER K.                                             NUCD-UMDP                1,151","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 1,151",NA,"NAVERA, PETER K.","",TRUE
+"299","BONACHITA, LEONIDO A.                                        NP                        886","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 886",NA,"BONACHITA, LEONIDO A.","",TRUE
+"300","YUSON, ROBERT B.                                             NP                        444","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 444",NA,"YUSON, ROBERT B.","",TRUE
+"301","ALVARICO, CONSTANCIO D.                                      NP                        212","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 212",NA,"ALVARICO, CONSTANCIO D.","",TRUE
+"302","BANTILAN, RICARDO T.                                         KBL                       23","12/12","SIQUIJOR","07","board member","2ND DISTRICT"," 23",NA,"BANTILAN, RICARDO T.","",TRUE
